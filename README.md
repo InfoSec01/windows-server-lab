@@ -2,13 +2,13 @@
 <h1># 🖥️ Windows Server Administration Lab</h1>
 </div>
 
-A hands-on project designed to simulate enterprise-level Windows Server management. This lab focuses on deploying and administering **Active Directory**, **Group Policy**, **File Services**, **DNS**, **DHCP**, and virtualized environments using **Windows Server 2019** and **Windows 10 Pro** VMs.
+A hands-on project designed to simulate enterprise-level Windows Server management. This lab focuses on deploying and administering **Active Directory**, **Group Policy**, **File Services**, **DNS**, **DHCP**, and virtualized environments using **Windows Server 2022** and **Windows 10 Pro** VMs.
 
 ---
 
 ## 🚀 Objectives
 
-- Deploy and configure Windows Server 2019 in a virtual lab  
+- Deploy and configure Windows Server 2022 in a virtual lab  
 - Implement Active Directory and domain services  
 - Apply Group Policies to manage users and endpoints  
 - Set up file sharing and access permissions  
@@ -19,7 +19,7 @@ A hands-on project designed to simulate enterprise-level Windows Server manageme
 
 ## 🧰 Lab Tools & Technologies
 
-- **Windows Server 2019**  
+- **Windows Server 2022**  
 - **Windows 10 Pro**  
 - **VirtualBox / VMware Workstation**  
 - **Active Directory Domain Services (AD DS)**  
@@ -107,7 +107,6 @@ This lab demonstrates core skills required for Windows System Administration rol
 ## 🔗 Related Projects
 
 - [Linux System Administration Lab](https://github.com/YourUsername/Linux-Lab)  
-- [Penetration Testing Lab](https://github.com/YourUsername/PenTest-Lab)  
 
 ---
 
