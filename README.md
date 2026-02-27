@@ -106,7 +106,9 @@ This lab demonstrates core skills required for Windows System Administration rol
 
 ## 🔗 Related Projects
 
-- [Linux System Administration Lab](https://github.com/YourUsername/Linux-Lab)  
+- [Linux System Operations](https://github.com/InfoSec01/linux-administration/blob/main/README.md)
+- [Network Operations & Segmentation](https://github.com/InfoSec01/Network-Administration/blob/main/README.md)
+- [Security & Defensive Controls](https://github.com/InfoSec01/information-security/blob/main/README.md)
 
 ---
 
@@ -114,4 +116,4 @@ This lab demonstrates core skills required for Windows System Administration rol
 
 **Baratul Khan**  
 📧 baratulkhan@gmail.com  
-🔗 [GitHub](https://github.com/InfoSec01)
+🔗 [GitHub](https://www.github.com/InfoSec01)
